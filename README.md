@@ -5,15 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitakhadkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitakhadkar" /> </p>
 
-- 🔭 I’m currently working on **Stock Prediction**
+**📊 Data Scientist | SQL | Python | Machine Learning | PowerBI |  Data Storyteller 📈📉**
 
-- 🌱 I’m currently learning **Machine Learning**
+🔬 Exploring data to unearth insights, solve problems, and make informed decisions.
 
-- 💬 Ask me about **SQL, Python, PowerBI, Statistics**
+**💡 Skills:**
+- SQL
+- Python
+- PowerBI
+- Machine Learning
+- Data Analysis
+- Statistical Modeling
+- Data Visualization
 
-- 📫 How to reach me **sumitakhadkar@gmail.com**
+🌱 On a mission to turn raw data into actionable intelligence and drive innovation through analytics.
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
